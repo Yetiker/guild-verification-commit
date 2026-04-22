@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-04-22T03:51:48.263Z
-Commit: Resolve null pointer exception in user service
+Timestamp: 2026-04-22T03:51:49.138Z
+Commit: Fix broken links in documentation
